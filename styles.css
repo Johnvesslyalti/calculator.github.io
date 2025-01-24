@@ -55,7 +55,7 @@ button:active {
     grid-column: span 4;
 }
 .button-clear:hover {
-    background: #bcadadf9;
+    background: #d1d9e0;
 }
 .button-equal {
     grid-column: span 4;
