@@ -51,12 +51,11 @@ button:active {
     background: #45a049;
 }
 .button-clear {
-    background: #4ada2e;
-    color: #ffffff;
+    background: #e0e6ed;
     grid-column: span 4;
 }
 .button-clear:hover {
-    background: #e53935;
+    background: #bcadadf9;
 }
 .button-equal {
     grid-column: span 4;
